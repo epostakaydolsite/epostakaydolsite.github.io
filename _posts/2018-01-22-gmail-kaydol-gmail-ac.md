@@ -11,7 +11,17 @@ header: Gmail Kaydol, Gmail Aç
      data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
-</script></center>
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 Google tarafından geliştirilerek kullanıcılara ücretsiz bir şekilde sunulan Gmail şu anda en aktif şekilde kullanılan e posta platformlarının başında gelmektedir. Günde milyonlarca kişi Gmail aracılığı ile mail gönderip mail almaktadır. 1 Nisan 2014 tarihinden bu yana kullanılan Gmail’in şu anda 1 milyarın üzerinde kullanıcısı bulunmaktadır. 
 
 1- Gmail kaydol işlemleri için öncelikli olarak Gmail’in resmi kayıt sitesine ulaşılması gereklidir. Alttaki butona tıklayarak bu resmi kayıt sitesine ulaşabilirsiniz.
