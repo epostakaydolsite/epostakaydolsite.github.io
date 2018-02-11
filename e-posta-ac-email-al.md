@@ -4,9 +4,6 @@ description: Saniyeler içerisinde ücretsiz olarak Hotmail, Gmail, Yandex veya 
 ---
 <center><h1>E Posta Aç</h1></center>
 E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bütün büyük e-mail servislerini sizler için derledik. Sizler de 2 adımda e posta hesabı açmak istiyorsanız birinci adımda sitemizden istediğiniz mail servisini bulabilir ve ikinci adım olarakta direkt o mail servisinin "Resmi Kayıt Sayfasına" tek tıklamayla ulaşabilirsiniz. Sıralama rastgele yapılmıştır, herhangi bir hiyerarşi yoktur.
-<h2>Hotmail (Outlook E Posta)</h2>
-<a href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac"><img width="354" height="74" title="hotmail logo" src="/img/hotmaillogo.jpg" /></a>
-<center><a style="color: #0366d6" href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac">Hotmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ResponsLink -->
 <ins class="adsbygoogle"
@@ -17,10 +14,9 @@ E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bü
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendir. Her gün 50 bini aşkın kullanıcı Hotmail sistemine kaydolur. Gelin siz de ücretsiz olarak Hotmail hesabı açın ve edindiğiniz e-posta hesabını kullanmaya başlayın. İster bilgisayarınızdan isterseniz de mobil cihazınızdan çok hızlı bir şekilde yeni hesap açabilirsiniz. Alttaki kaydolma linkini kullanarak direk kayıt sayfasına gidebilir veya resimli anlatım sayfamızdan yapamadığınız ve hata aldığınız yerlerin nasıl olduğunu gösteren daha detaylı bir anlatıma ulaşabilirsiniz.
-<h2>Gmail E Posta Al</h2>
-<a href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac"><img width="90" height="90" title="gmail logo" src="/img/gmaillogo.png" /></a>
-<center><a style="color: #0366d6" href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac">Gmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
+<h2>Hotmail (Outlook E Posta)</h2>
+<a href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac"><img width="354" height="74" title="hotmail logo" src="/img/hotmaillogo.jpg" /></a>
+<center><a style="color: #0366d6" href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac">Hotmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
 <ins class="adsbygoogle"
@@ -31,7 +27,21 @@ Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendi
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
+Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendir. Her gün 50 bini aşkın kullanıcı Hotmail sistemine kaydolur. Gelin siz de ücretsiz olarak Hotmail hesabı açın ve edindiğiniz e-posta hesabını kullanmaya başlayın. İster bilgisayarınızdan isterseniz de mobil cihazınızdan çok hızlı bir şekilde yeni hesap açabilirsiniz. Alttaki kaydolma linkini kullanarak direk kayıt sayfasına gidebilir veya resimli anlatım sayfamızdan yapamadığınız ve hata aldığınız yerlerin nasıl olduğunu gösteren daha detaylı bir anlatıma ulaşabilirsiniz.
+<h2>Gmail E Posta Al</h2>
+<a href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac"><img width="90" height="90" title="gmail logo" src="/img/gmaillogo.png" /></a>
+<center><a style="color: #0366d6" href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac">Gmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 Gmail kısaltmasıyla ünlenen Google Mail, web tabanlı en çok kullanılan e-posta servislerinden biridir. Kullanıcılarına 15 GB ücretsiz depolama alanı sunan Gmail, 2004 yılında Google şirketi tarafından piyasaya tanıtıldı ve 2005 yılı itibariyle yeni hesap alımlarını başlattı. 2015 yılında 1 milyar kullanıcıya ulaştı. Gmail'in en belirgin özelliği sağladığı depolama alanıdır. İş hayatındaki birçok kullanıcı depolama alanı biter ve gönderilen e-postalar bana ulaşmaz endişesiyle diğer mail servislerini değil de iş maili olarak bunu kullanırlar. Ayrıca çok büyük bir spam filtresi olduğu için bütün gereksiz e-postalar spam klasöründe otomatik olarak toplanır.
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 <h3>Yandex E-mail Kaydol</h3>
 <a href="https://www.epostakaydol.site/yandex-mail-kaydol"><img width="228" height="85" title="yandex mail logo" src="/img/yandexmailkayit.jpg" /></a>
 <center><a style="color: #0366d6" href="https://www.epostakaydol.site/yandex-mail-kaydol">Yandex.Mail Kaydolma Resimli Anlatım için tıklayın.</a></center>
