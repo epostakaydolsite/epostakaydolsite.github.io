@@ -3,16 +3,25 @@ title: Yandex Mail Kaydol (Telefonsuz)
 description: Telefon numarası şart koşmadan ücretsiz olarak yeni bir yandex mail hesabı açmayı öğrenmek için sitemize bekleriz.
 header: Yandex Mail Kaydol (Telefonsuz)
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ResponsLink -->
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Baglanti20090 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="2012296391"
-     data-ad-format="link"></ins>
+     data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 26 Haziran 2000 tarihinde Rus dev yazılım şirketi Yandex tarafından geliştirilen Yandex Mail son derece teknolojik bir e posta platformudur. Özellikle platformda yer alan virüs tarama özelliği nedeni ile oldukça sevilen ve kullanılan bir sistemdir. Kullanıcılara ücretsiz bir şekilde sunulan Yandex Mail üzerinde yasal olarak sınırsız sayıda hesap açılabiliyor. Böylelikle kullanıcılar sınırsız sayıda mail depolama imkanına kavuşuyor. 
 
 1- Yandex Mail Kayıt işlemleri için Yandex Mail’in resmî sitesine giriş yapılmalıdır. Alttaki butona tıklayarak kayıt işlemlerine başlayabilirsiniz.<br>
