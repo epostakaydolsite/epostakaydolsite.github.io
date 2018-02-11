@@ -3,17 +3,25 @@ title: Hotmail Kaydol, Hotmail Aç
 description: Ücretsiz olarak yeni bir hotmail e-posta hesabı açın. Hotmail kaydol, hotmail kur.
 header: Hotmail Kaydol, Hotmail Kur
 ---
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- ResponsLink -->
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Baglanti20090 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="2012296391"
-     data-ad-format="link"></ins>
+     data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 1996 yılı itibari ile dünya devi Microsoft tarafından kullanıcılara ücretsiz bir şekilde sunulan Hotmail kaydol milyonlarca kişi tarafından aktif bir şekilde kullanılmaktadır. Hotmail kullanıcılar karşısına ücretsiz bir şekilde çıktığı gibi ücretli versiyonu da bulunmaktadır. Ücretsiz versiyonunda kullanıcılar için 5 GB boyutunda depolama alanı sunulurken ücretli versiyonda ise yıllık 19.95 USD ödeme ile bu depolama alanı 10 GB boyuta çıkmaktadır. Hotmail aç işlemleri ise çok basit bir şekilde gerçekleştirilir.<br>
 <br>
 1- Öncelikli olarak kaydolma işlemlerinin birinci aşamasında Hotmail’in resmi kayıt sitesine ulaşmanız gereklidir. Alttaki butona tıklayarak bu resmi siteye erişim sağlayabilirsiniz.<br>
@@ -32,16 +40,6 @@ header: Hotmail Kaydol, Hotmail Kur
 <br><img width="270" height="300" title="hotmail kaydol" src="/img/hotmail1.png">
 
 3- Bu bölümde sizden ad ve soyadınız istenecektir. Bu bilgileri de yazdıktan sonra tekrar ‘İleri’ butonuna basın.
-<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 200 90 -->
-<ins class="adsbygoogle"
-     style="display:inline-block;width:200px;height:90px"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4977168797"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</center>
 <img width="270" height="300" title="hotmail kaydol ad soyad ve şifre" src="/img/hotmail2.png">
 
 4- Bu bölümde ise yaşadığınız ülke ve doğum tarihi bilgileriniz istenecektir. Bu bilgileri de doldurup tekrar ‘İleri’ butonuna basın.
