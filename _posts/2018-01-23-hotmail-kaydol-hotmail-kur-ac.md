@@ -62,5 +62,3 @@ Yapamadığınız veya hata aldığınız bir yer varsa bize soru sormaktan çek
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-<a name="kaydol">E Posta Kur</a>
