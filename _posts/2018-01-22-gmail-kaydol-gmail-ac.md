@@ -38,7 +38,7 @@ Google tarafından geliştirilerek kullanıcılara ücretsiz bir şekilde sunula
 <br>
 <center><a href="https://goo.gl/acnZEc" rel="nofollow" target="_blank"><button class="btn btn-primary2">✉ www.Gmail.com</button></a></center><br>
 2- Gmail kayıt sitesinde sizi karşılayan ara yüzde sizden bazı bilgiler istenecektir. Bu bilgiler; ad, soyad, kullanıcı adınız, şifreniz, cinsiyetiniz, doğum tarihiniz, telefon numaranız, varsa mevcut diğer e posta adresiniz ve ülkenizdir. Sizden istenen bu bilgiler Google tarafından saklanacaktır. Herhangi bir şekilde üçüncü kişiler ile paylaşılmayacaktır. Bu yüzden gönül rahatlığı ile başta telefon numarası olarak üzere istenen diğer bilgileri belirtilen yere yazabilirsiniz. Bu bilgileri dikkatli bir şekilde doldurarak sayfada yer alan ‘Sonraki Adım’ butonuna tıklayın.
-<br><img width="265" height="430" title="gmail açılış ekranı" src="/img/gmail1.png">
+<br><img width="275" height="430" title="gmail açılış ekranı" src="/img/gmail1.png">
 
 3- Böylelikle Gmail hesabınız kullanıma hazır olacak ve aktif bir şekilde kullanmaya başlayabileceksiniz. 
 <br><img width="460" height="295" title="gmail açılış ekranı" src="/img/gmail2.png">
