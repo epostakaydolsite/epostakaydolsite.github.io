@@ -1,14 +1,14 @@
 ---
-title: Yandex Mail Kaydol (Telefonsuz)
+title: Yandex Email Kaydol - Resimli Anlatım
 description: Telefon numarası şart koşmadan ücretsiz olarak yeni bir yandex mail hesabı açmayı öğrenmek için sitemize bekleriz.
-header: Yandex Mail Kaydol (Telefonsuz)
+header: Yandex Email Kaydol
 ---
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Baglanti20090 -->
+<!-- 200 90 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="9116964791"></ins>
+     data-ad-slot="4977168797"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
