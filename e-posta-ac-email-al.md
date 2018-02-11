@@ -17,6 +17,7 @@ E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bü
 <h2>Hotmail (Outlook E Posta)</h2>
 <a href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac"><img width="354" height="74" title="hotmail logo" src="/img/hotmaillogo.jpg" /></a>
 <center><a style="color: #0366d6" href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac">Hotmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
+Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendir. Her gün 50 bini aşkın kullanıcı Hotmail sistemine kaydolur. Gelin siz de ücretsiz olarak Hotmail hesabı açın ve edindiğiniz e-posta hesabını kullanmaya başlayın. İster bilgisayarınızdan isterseniz de mobil cihazınızdan çok hızlı bir şekilde yeni hesap açabilirsiniz. Alttaki kaydolma linkini kullanarak direk kayıt sayfasına gidebilir veya resimli anlatım sayfamızdan yapamadığınız ve hata aldığınız yerlerin nasıl olduğunu gösteren daha detaylı bir anlatıma ulaşabilirsiniz.
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
 <ins class="adsbygoogle"
@@ -27,7 +28,6 @@ E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bü
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </center>
-Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendir. Her gün 50 bini aşkın kullanıcı Hotmail sistemine kaydolur. Gelin siz de ücretsiz olarak Hotmail hesabı açın ve edindiğiniz e-posta hesabını kullanmaya başlayın. İster bilgisayarınızdan isterseniz de mobil cihazınızdan çok hızlı bir şekilde yeni hesap açabilirsiniz. Alttaki kaydolma linkini kullanarak direk kayıt sayfasına gidebilir veya resimli anlatım sayfamızdan yapamadığınız ve hata aldığınız yerlerin nasıl olduğunu gösteren daha detaylı bir anlatıma ulaşabilirsiniz.
 <h2>Gmail E Posta Al</h2>
 <a href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac"><img width="90" height="90" title="gmail logo" src="/img/gmaillogo.png" /></a>
 <center><a style="color: #0366d6" href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac">Gmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
