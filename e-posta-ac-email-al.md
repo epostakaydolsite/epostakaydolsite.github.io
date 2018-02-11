@@ -19,11 +19,11 @@ E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bü
 <center><a style="color: #0366d6" href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac">Hotmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendir. Her gün 50 bini aşkın kullanıcı Hotmail sistemine kaydolur. Gelin siz de ücretsiz olarak Hotmail hesabı açın ve edindiğiniz e-posta hesabını kullanmaya başlayın. İster bilgisayarınızdan isterseniz de mobil cihazınızdan çok hızlı bir şekilde yeni hesap açabilirsiniz. Alttaki kaydolma linkini kullanarak direk kayıt sayfasına gidebilir veya resimli anlatım sayfamızdan yapamadığınız ve hata aldığınız yerlerin nasıl olduğunu gösteren daha detaylı bir anlatıma ulaşabilirsiniz.
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 200 90 -->
+<!-- Baglanti20090 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4977168797"></ins>
+     data-ad-slot="9116964791"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
