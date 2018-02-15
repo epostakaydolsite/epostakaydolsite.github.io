@@ -3,6 +3,7 @@ title: Gmail Kaydol, Gmail Aç
 description: Ücretsiz bir şekilde yeni bir gmail hesabını nasıl açabilirsiniz, basitçe anlatıyoruz.
 header: Gmail Kaydol, Gmail Aç
 ---
+Sponsor Bağlantılar
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
 <ins class="adsbygoogle"
