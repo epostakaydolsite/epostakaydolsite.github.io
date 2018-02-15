@@ -31,7 +31,7 @@ Sponsor Bağlantılar
 <br><img width="270" height="300" title="hotmail kaydol" src="/img/hotmail1.png">
 
 3- Bu bölümde sizden ad ve soyadınız istenecektir. Bu bilgileri de yazdıktan sonra tekrar ‘İleri’ butonuna basın.
-<img width="270" height="300" title="hotmail kaydol ad soyad ve şifre" src="/img/hotmail2.png">
+<br><img width="270" height="300" title="hotmail kaydol ad soyad ve şifre" src="/img/hotmail2.png">
 
 4- Bu bölümde ise yaşadığınız ülke ve doğum tarihi bilgileriniz istenecektir. Bu bilgileri de doldurup tekrar ‘İleri’ butonuna basın.
 <br><img width="270" height="290" title="hotmail kaydol ülke ve doğum tarihi" src="/img/hotmail3.png">
@@ -40,3 +40,20 @@ Sponsor Bağlantılar
 <br><img width="270" height="300" title="hotmail kaydol doğrulama kodu" src="/img/hotmail4.png">
 
 Yapamadığınız veya hata aldığınız bir yer varsa bize soru sormaktan çekinmeyin. Uzmanlarımız size yardım etmek için sorularınızı bekliyorlar.
+
+<h3>Outlook İçin Hotmail Kur İşlemi</h3>
+1- Resimli anlatımımıza başlamadan önce Outlook programınızın cep telefonu için veya bilgisayarınız için güncel olduğundan emin olun. Hazırsanız başlayabiliriz.
+2- Outlook uygulamasını telefonunuz, tabletiniz veya bilgisayarınızdan açın.
+<br><img width="603" height="425" title="hotmail kaydol" src="/img/1.png">
+3- Hiçbir şeyi ellemeden ileri diyerek devam edin.
+<br><img width="603" height="425" title="hotmail kaydol" src="/img/2.png">
+4- En alt tarafta bulunan "Elle Kurulum" seçeneğine tıklayın. Ayrıca buradan her türlü sunucu işlemlerini de halledebiliriz.
+<br><img width="603" height="425" title="hotmail kaydol" src="/img/3.png">
+5- POP, IMAP veya Outlook şeklindeki ayarlardan POP ve IMAP ayarlarını bu sayfada oluşturabiliriz.
+<br><img width="603" height="425" title="hotmail kaydol" src="/img/4.png">
+6- Gerekli olan tüm alanları mailinizde gözükmesini istediğiniz şekilde doldurun. Ad-Soyad, Hesap Türü vesaire gibi alanları boş bırakmayın.
+7- Ayarlar sekmesine tıklayın ve Giden Sunucu bölmesinde resimde gösterdiğimiz ayarları uygulayın.
+<br><img width="603" height="425" title="hotmail kaydol" src="/img/5.png">
+8- Giden Sunucu yani SMTP ayarınızı 587 şeklinde değiştirin. Bu ayar her mail sunucusunda farklılık gösterebilir. Bu yüzden kendi mail sağlayıcınızdan gerekli olan sayıyı öğrenin.
+<br><img width="603" height="425" title="hotmail kaydol" src="/img/6.png">
+9- Uygulama otomatik olarak sınamak için hotmail e-posta iletisi gönderecek ve POP3 ayarlarını doğrulayacak. Tebrikler, kurulum işlemi tamamlandı.
