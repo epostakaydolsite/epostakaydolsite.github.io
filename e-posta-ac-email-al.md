@@ -4,6 +4,7 @@ description: Saniyeler içerisinde ücretsiz olarak Hotmail, Gmail, Yandex veya 
 ---
 <center><h1>E Posta Aç</h1></center>
 E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bütün büyük e-mail servislerini sizler için derledik. Sizler de 2 adımda e posta hesabı açmak istiyorsanız birinci adımda sitemizden istediğiniz mail servisini bulabilir ve ikinci adım olarakta direkt o mail servisinin "Resmi Kayıt Sayfasına" tek tıklamayla ulaşabilirsiniz. Sıralama rastgele yapılmıştır, herhangi bir hiyerarşi yoktur.
+Sponsor Bağlantılar
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- ResponsLink -->
 <ins class="adsbygoogle"
