@@ -3,7 +3,7 @@ title: Hotmail Kaydol, Hotmail Kur
 description: Ücretsiz olarak yeni bir hotmail e-posta hesabı açın. Hotmail kaydol, hotmail kur.
 header: Hotmail Kaydol, Hotmail Kur
 ---
-Reklam
+Sponsor Bağlantılar
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
 <!-- 200 90 -->
 <ins class="adsbygoogle"
