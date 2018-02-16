@@ -51,6 +51,17 @@ Sponsor Bağlantılar
 
 Yapamadığınız veya hata aldığınız bir yer varsa bize soru sormaktan çekinmeyin. Uzmanlarımız size yardım etmek için sorularınızı bekliyorlar.
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Hoturum Ac Esnek -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="5130793994"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 <h3>Outlook İçin Hotmail Kur İşlemi</h3>
 1- Resimli anlatımımıza başlamadan önce Outlook programınızın cep telefonu için veya bilgisayarınız için güncel olduğundan emin olun. Hazırsanız başlayabiliriz.
 2- Outlook uygulamasını telefonunuz, tabletiniz veya bilgisayarınızdan açın.
