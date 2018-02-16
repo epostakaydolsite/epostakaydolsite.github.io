@@ -25,12 +25,11 @@ Sponsor Bağlantılar
 </center>
 1996 yılı itibari ile dünya devi Microsoft tarafından kullanıcılara ücretsiz bir şekilde sunulan Hotmail kaydol milyonlarca kişi tarafından aktif bir şekilde kullanılmaktadır. Hotmail kullanıcılar karşısına ücretsiz bir şekilde çıktığı gibi ücretli versiyonu da bulunmaktadır. Ücretsiz versiyonunda kullanıcılar için 5 GB boyutunda depolama alanı sunulurken ücretli versiyonda ise yıllık 19.95 USD ödeme ile bu depolama alanı 10 GB boyuta çıkmaktadır. Hotmail aç işlemleri ise çok basit bir şekilde gerçekleştirilir.<br>
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Hoturum Ac Esnek -->
+<!-- 336 -->
 <ins class="adsbygoogle"
-     style="display:block"
+     style="display:inline-block;width:336px;height:280px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="5130793994"
-     data-ad-format="auto"></ins>
+     data-ad-slot="9585734309"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
