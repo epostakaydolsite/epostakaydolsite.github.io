@@ -24,6 +24,16 @@ Sponsor Bağlantılar
 </script>
 </center>
 1996 yılı itibari ile dünya devi Microsoft tarafından kullanıcılara ücretsiz bir şekilde sunulan Hotmail kaydol milyonlarca kişi tarafından aktif bir şekilde kullanılmaktadır. Hotmail kullanıcılar karşısına ücretsiz bir şekilde çıktığı gibi ücretli versiyonu da bulunmaktadır. Ücretsiz versiyonunda kullanıcılar için 5 GB boyutunda depolama alanı sunulurken ücretli versiyonda ise yıllık 19.95 USD ödeme ile bu depolama alanı 10 GB boyuta çıkmaktadır. Hotmail aç işlemleri ise çok basit bir şekilde gerçekleştirilir.<br>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Hoturum Ac Esnek -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="5130793994"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <br>
 1- Öncelikli olarak kaydolma işlemlerinin birinci aşamasında Hotmail’in resmi kayıt sitesine ulaşmanız gereklidir. Alttaki butona tıklayarak bu resmi siteye erişim sağlayabilirsiniz.<br>
 <center><a href="https://goo.gl/PUj31j" rel="nofollow" target="_blank"><button class="btn btn-primary2">✉ www.Hotmail.com</button></a></center><br>
