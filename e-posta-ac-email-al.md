@@ -47,6 +47,13 @@ Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çap�
 
 <h3>E Posta Nasıl Kurulur</h3>
 Üstte anlattığımız şekilde resimli anlatımlara gidip yeni bir e posta hesabı açabilirsiniz. Açtığınız bu hesabı kurmak için ise bilgisayarda <strong>Outlook adlı programı</strong>, Android telefon ve tabletlerde Google Play Store üzerinden "<strong>E-Mail adlı uygulamayı</strong>", IOS cihazlarda ise "<strong>E-Posta ismiyle yüklü gelen uygulamayı</strong>" kullanabilirsiniz. Kısaca bahsetmek gerekirse kullanıcı adı ve şifrenizle o programlara giriş yapın, ardından gerekli ayarlamaları sizi yönlendiren bilgi kutucukları yardımıyla tamamlayın. E postanızı kurmayla ilgili daha detaylı bilgiyi diğer yazılarımızda zaten sizlere anlattık. O yazılarımızı da takip edebilirsiniz.
+<br>
+<img width="750" height="449" title="yandex mail logo" src="/img/epostakur1.jpg" /><br>
+<img width="750" height="449" title="yandex mail logo" src="/img/epostakur2.jpg" /><br>
+
+<strong>ANDROID CİHAZLARDA E POSTA KURULUMU VİDEOLU ANLATIM</strong><br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/buT__6oLX3I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 
 <h3 id="yorumlar">Yorumlar</h3>
 <form>
