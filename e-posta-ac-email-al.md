@@ -29,16 +29,7 @@ Gmail kısaltmasıyla ünlenen Google Mail, web tabanlı en çok kullanılan e-p
 <a href="https://www.epostakaydol.site/yandex-mail-kaydol"><img width="228" height="85" title="yandex mail logo" src="/img/yandexmailkayit.jpg" /></a>
 <center><a style="color: #0366d6" href="https://www.epostakaydol.site/yandex-mail-kaydol">Yandex.Mail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 Bol miktarda depolama alanı ve ücretsiz kullanıma sahip olan bir diğer servis ise Yandex.Mail'dir. İş için farklı bir mail servisi deneyimi mi istiyorsunuz? Veya telefon numaram yok mail hesabı açamıyorum mu diyorsunuz? Sebebi her ne olursa olsun telefonsuz olarakta kayıt olabileceğiniz Yandex.Mail hizmetinizde. IMAP ve POP erişimi dahil çok basit bir arayüzle bizlere sunulan bu sistemi hemen sizler de deneyebilirsiniz.
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Hoturum Ac Esnek -->
-<ins class="adsbygoogle"
-     style="display:block"
-     data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="5130793994"
-     data-ad-format="auto"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+
 <h3>Yahoo E Posta</h3>
 <a href="https://www.epostakaydol.site/"><img width="90" height="90" title="yahoo mail logo" src="/img/yahoo-mail.png" /></a>
 <center><a rel="nofollow" target="_blank" style="color: #0366d6" href="https://goo.gl/SS1dmK">Yahoo Mail Resmi Sitesi için tıklayın.</a>
