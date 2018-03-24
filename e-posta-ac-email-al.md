@@ -32,10 +32,6 @@ Yahoo Mail üçüncü en büyük mail sağlayıcısı olduğu için dünya çap�
 <img width="750" height="449" title="yandex mail logo" src="/img/epostakur1.jpg" /><br>
 <img width="750" height="449" title="yandex mail logo" src="/img/epostakur2.jpg" /><br>
 
-<strong>ANDROID CİHAZLARDA E POSTA KURULUMU VİDEOLU ANLATIM</strong><br>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/buT__6oLX3I?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-
 <h3 id="yorumlar">Yorumlar</h3>
 <form>
 <div class="form-group">
