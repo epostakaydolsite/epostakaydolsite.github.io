@@ -6,6 +6,16 @@ layout: default
 
 	{% for post in paginator.posts %}
 
+<center>Sponsor Bağlantılar<br>
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+	</script></center><hr>
 	  <li class="post">
 	  	<h2><a href="{% if site.baseurl == "/" %}{{ post.url }}{% else %}{{ post.url | prepend: site.baseurl }}{% endif %}">{%if post.header %}{{ post.header }}{% else %}{{ post.title }}{% endif %}</a></h2>
 	  	<p>{{ post.content | strip_html | truncatewords:50 }}</p>
