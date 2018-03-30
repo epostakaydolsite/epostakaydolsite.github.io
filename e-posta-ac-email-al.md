@@ -4,12 +4,40 @@ description: Saniyeler içerisinde ücretsiz olarak Hotmail, Gmail, Yandex veya 
 ---
 <center><h1>E Posta Açabileceğiniz Ücretsiz Mail Servisleri</h1></center>
 E Posta Açmak isteyen herkes için ücretsiz olarak e-posta alabileceğiniz bütün büyük e-mail servislerini sizler için derledik. Sizler de 2 adımda e posta hesabı açmak istiyorsanız birinci adımda sitemizden istediğiniz mail servisini bulabilir ve ikinci adım olarakta direkt o mail servisinin "Resmi Kayıt Sayfasına" tek tıklamayla ulaşabilirsiniz. Hesabınızı açmak için ise kayıt olurken kullanmış olduğunuz kullanıcı adı ve şifrenizle mail servislerinin resmi sitelerinden giriş yapabilirsiniz. Sıralama rastgele yapılmıştır, herhangi bir hiyerarşi yoktur.<br>
-
+Sponsor Bağlantılar
+<center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:200px;height:90px"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="4977168797"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</center>
 <h2>Hotmail (Outlook E Posta)</h2>
 <a href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac"><img width="354" height="74" title="hotmail logo" src="/img/hotmaillogo.jpg" /></a>
 <center><a style="color: #0366d6" href="https://www.epostakaydol.site/hotmail-kaydol-hotmail-kur-ac">Hotmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
 Hotmail (Outlook adıyla da anılır) önde gelen e-posta hizmeti sitelerindendir. Her gün 50 bini aşkın kullanıcı Hotmail sistemine kaydolur. Gelin siz de ücretsiz olarak Hotmail hesabı açın ve edindiğiniz e-posta hesabını kullanmaya başlayın. İster bilgisayarınızdan isterseniz de mobil cihazınızdan çok hızlı bir şekilde yeni hesap açabilirsiniz. Alttaki kaydolma linkini kullanarak direk kayıt sayfasına gidebilir veya resimli anlatım sayfamızdan yapamadığınız ve hata aldığınız yerlerin nasıl olduğunu gösteren daha detaylı bir anlatıma ulaşabilirsiniz.
-
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Hoturum Ac Esnek -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-7942429830883405"
+     data-ad-slot="5130793994"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 <h2>Gmail E Posta</h2>
 <a href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac"><img width="90" height="90" title="gmail logo" src="/img/gmaillogo.png" /></a>
 <center><a style="color: #0366d6" href="https://www.epostakaydol.site/gmail-kaydol-gmail-ac">Gmail Kaydolma Resimli Anlatım için tıklayın.</a></center>
