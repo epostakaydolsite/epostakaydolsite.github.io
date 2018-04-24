@@ -27,11 +27,11 @@ Google tarafından geliştirilerek kullanıcılara ücretsiz bir şekilde sunula
 
 1- Gmail kaydol işlemleri için öncelikli olarak Gmail’in resmi kayıt sitesine ulaşılması gereklidir. Alttaki butona tıklayarak bu resmi kayıt sitesine ulaşabilirsiniz.
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Baglanti20090 -->
+<!-- 200 90 2018 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="9116964791"></ins>
+     data-ad-slot="2122979234"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
