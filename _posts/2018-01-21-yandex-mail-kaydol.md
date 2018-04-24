@@ -27,11 +27,11 @@ header: Yandex Email Kaydol
 1- Yandex Mail Kayıt işlemleri için Yandex Mail’in resmî sitesine giriş yapılmalıdır. Alttaki butona tıklayarak kayıt işlemlerine başlayabilirsiniz.<br>
 <center><a href="https://goo.gl/QbjxH7" rel="nofollow" target="_blank"><button class="btn btn-primary2">✉ Mail.Yandex.com</button></a></center><br>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Baglanti20090 -->
+<!-- 200 90 2018 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="9116964791"></ins>
+     data-ad-slot="2122979234"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script></center>
