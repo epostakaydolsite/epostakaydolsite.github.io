@@ -37,11 +37,11 @@ Sponsor Bağlantılar
 1- Öncelikli olarak kaydolma işlemlerinin birinci aşamasında Hotmail’in resmi kayıt sitesine ulaşmanız gereklidir. Alttaki butona tıklayarak bu resmi siteye erişim sağlayabilirsiniz.<br>
 <center><a href="https://goo.gl/PUj31j" rel="nofollow" target="_blank"><button class="btn btn-primary2">✉ www.Hotmail.com</button></a></center><br>
 <center><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Baglanti20090 -->
+<!-- 200 90 2018 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="9116964791"></ins>
+     data-ad-slot="2122979234"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
