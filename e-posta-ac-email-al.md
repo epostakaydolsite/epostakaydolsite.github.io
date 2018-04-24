@@ -14,12 +14,12 @@ Sponsor Bağlantılar
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- 200 90 -->
+	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- 200 90 2018 -->
 <ins class="adsbygoogle"
      style="display:inline-block;width:200px;height:90px"
      data-ad-client="ca-pub-7942429830883405"
-     data-ad-slot="4977168797"></ins>
+     data-ad-slot="2122979234"></ins>
 <script>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
