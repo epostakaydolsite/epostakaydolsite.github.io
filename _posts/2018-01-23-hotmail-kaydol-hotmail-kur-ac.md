@@ -87,3 +87,5 @@ Yapamadığınız veya hata aldığınız bir yer varsa bize soru sormaktan çek
 8- Giden Sunucu yani SMTP ayarınızı 587 şeklinde değiştirin. Bu ayar her mail sunucusunda farklılık gösterebilir. Bu yüzden kendi mail sağlayıcınızdan gerekli olan sayıyı öğrenin.
 <br><img width="603" height="425" title="hotmail kaydol" src="/img/6.png">
 9- Uygulama otomatik olarak sınamak için hotmail e-posta iletisi gönderecek ve POP3 ayarlarını doğrulayacak. Tebrikler, kurulum işlemi tamamlandı.
+
+<div style="display:none">son sürüm apk'ları <a href="https://sonsurum.club/">buraya tıklayarak indir.</a></div>
